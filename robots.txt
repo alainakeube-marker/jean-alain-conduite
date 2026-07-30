@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alainakeube-marker.github.io/jean-alain-conduite/sitemap.xml
